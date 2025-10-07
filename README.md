@@ -2,7 +2,7 @@
 
 ***Visão Geral***
 
-Este laboratório tem como objetivo de consolidar seus conhecimentos em máquinas virtuais da Azure.
+  Este laboratório tem como objetivo de consolidar seus conhecimentos em máquinas virtuais da Azure.
 
 ***Processo Detalhado***
 
